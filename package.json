@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "displayName": "Linked App Template",
+  "name": "roofing-products-app",
+  "displayName": "Roofing Products",
   "description": "Linked app — base repository for new Linked apps.",
   "version": "0.1.0",
   "private": true,
