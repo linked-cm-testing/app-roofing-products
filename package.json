@@ -6,7 +6,15 @@
   "private": true,
   "type": "module",
   "linked": {
-    "kind": "app"
+    "kind": "app",
+    "unpublishedPackages": {
+      "roofing-products-ont": {
+        "repo": "https://github.com/linked-cm-testing/email-ont-roofing-products.git"
+      },
+      "roofing-products-assets": {
+        "repo": "https://github.com/linked-cm-testing/email-assets-roofing-products.git"
+      }
+    }
   },
   "author": {
     "name": "",
